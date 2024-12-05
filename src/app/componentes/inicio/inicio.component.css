@@ -1,0 +1,7 @@
+.letra {
+    font-family: 'Comic Sans MS', sans-serif;
+}
+.card-body h4 {
+    color: #ff5733; /* Color llamativo para el precio */
+    font-size: 1.25rem;
+}
